@@ -1,0 +1,10 @@
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\bin\Debug\Ejercicio30.exe.config
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\bin\Debug\Ejercicio30.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\bin\Debug\Ejercicio30.pdb
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\obj\Debug\Ejercicio30.csprojAssemblyReference.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\obj\Debug\Ejercicio30.Form1.resources
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\obj\Debug\Ejercicio30.Properties.Resources.resources
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\obj\Debug\Ejercicio30.csproj.GenerateResource.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\obj\Debug\Ejercicio30.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\obj\Debug\Ejercicio30.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio30\obj\Debug\Ejercicio30.pdb

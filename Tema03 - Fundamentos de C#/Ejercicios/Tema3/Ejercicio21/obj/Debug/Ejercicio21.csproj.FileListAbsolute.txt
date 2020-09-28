@@ -1,0 +1,10 @@
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\bin\Debug\Ejercicio21.exe.config
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\bin\Debug\Ejercicio21.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\bin\Debug\Ejercicio21.pdb
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\obj\Debug\Ejercicio21.csprojAssemblyReference.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\obj\Debug\Ejercicio21.Form1.resources
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\obj\Debug\Ejercicio21.Properties.Resources.resources
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\obj\Debug\Ejercicio21.csproj.GenerateResource.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\obj\Debug\Ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\obj\Debug\Ejercicio21.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio21\obj\Debug\Ejercicio21.pdb

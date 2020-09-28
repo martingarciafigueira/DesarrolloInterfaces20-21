@@ -1,0 +1,9 @@
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\bin\Debug\Ejercicio5.exe
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\bin\Debug\Ejercicio5.pdb
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\obj\Debug\Ejercicio5.Form1.resources
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\obj\Debug\Ejercicio5.Properties.Resources.resources
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\obj\Debug\Ejercicio5.csproj.GenerateResource.cache
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\obj\Debug\Ejercicio5.exe
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio5\obj\Debug\Ejercicio5.pdb

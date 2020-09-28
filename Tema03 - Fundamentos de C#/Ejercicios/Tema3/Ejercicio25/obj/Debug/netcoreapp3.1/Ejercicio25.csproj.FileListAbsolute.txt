@@ -1,0 +1,12 @@
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\bin\Debug\netcoreapp3.1\Ejercicio25.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\bin\Debug\netcoreapp3.1\Ejercicio25.deps.json
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\bin\Debug\netcoreapp3.1\Ejercicio25.runtimeconfig.json
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\bin\Debug\netcoreapp3.1\Ejercicio25.runtimeconfig.dev.json
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\bin\Debug\netcoreapp3.1\Ejercicio25.dll
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\bin\Debug\netcoreapp3.1\Ejercicio25.pdb
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\obj\Debug\netcoreapp3.1\Ejercicio25.AssemblyInfoInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\obj\Debug\netcoreapp3.1\Ejercicio25.AssemblyInfo.cs
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\obj\Debug\netcoreapp3.1\Ejercicio25.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\obj\Debug\netcoreapp3.1\Ejercicio25.dll
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\obj\Debug\netcoreapp3.1\Ejercicio25.pdb
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio25\obj\Debug\netcoreapp3.1\Ejercicio25.genruntimeconfig.cache

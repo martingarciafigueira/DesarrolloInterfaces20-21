@@ -1,0 +1,9 @@
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\bin\Debug\Ejercicio23.exe.config
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\bin\Debug\Ejercicio23.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\bin\Debug\Ejercicio23.pdb
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\obj\Debug\Ejercicio23.Form1.resources
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\obj\Debug\Ejercicio23.Properties.Resources.resources
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\obj\Debug\Ejercicio23.csproj.GenerateResource.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\obj\Debug\Ejercicio23.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\obj\Debug\Ejercicio23.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio23\obj\Debug\Ejercicio23.pdb

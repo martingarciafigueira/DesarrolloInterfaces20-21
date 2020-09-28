@@ -1,0 +1,9 @@
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\bin\Debug\Ejercicio29.exe.config
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\bin\Debug\Ejercicio29.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\bin\Debug\Ejercicio29.pdb
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\obj\Debug\Ejercicio29.Form1.resources
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\obj\Debug\Ejercicio29.Properties.Resources.resources
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\obj\Debug\Ejercicio29.csproj.GenerateResource.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\obj\Debug\Ejercicio29.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\obj\Debug\Ejercicio29.exe
+C:\Users\MESACOCINA\source\repos\Tema3\Ejercicio29\obj\Debug\Ejercicio29.pdb

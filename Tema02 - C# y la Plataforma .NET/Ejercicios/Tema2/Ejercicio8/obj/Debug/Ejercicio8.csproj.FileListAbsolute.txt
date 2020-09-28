@@ -1,0 +1,9 @@
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\obj\Debug\Ejercicio8.Form1.resources
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\obj\Debug\Ejercicio8.Properties.Resources.resources
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\obj\Debug\Ejercicio8.csproj.GenerateResource.cache
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\MESACOCINA\source\repos\Tema2\Ejercicio8\obj\Debug\Ejercicio8.pdb
