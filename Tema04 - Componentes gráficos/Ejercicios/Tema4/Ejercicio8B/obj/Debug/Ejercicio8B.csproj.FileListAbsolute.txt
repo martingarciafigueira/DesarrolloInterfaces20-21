@@ -1,0 +1,9 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\bin\Debug\Ejercicio8B.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\bin\Debug\Ejercicio8B.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\bin\Debug\Ejercicio8B.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\obj\Debug\Ejercicio8B.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\obj\Debug\Ejercicio8B.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\obj\Debug\Ejercicio8B.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\obj\Debug\Ejercicio8B.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\obj\Debug\Ejercicio8B.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema04 - Componentes gráficos\Ejercicios\Tema4\Ejercicio8B\obj\Debug\Ejercicio8B.pdb
