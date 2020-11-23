@@ -1,0 +1,9 @@
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\bin\Debug\Ejercicio32.exe.config
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\bin\Debug\Ejercicio32.exe
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\bin\Debug\Ejercicio32.pdb
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\obj\Debug\Ejercicio32.Form1.resources
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\obj\Debug\Ejercicio32.Properties.Resources.resources
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\obj\Debug\Ejercicio32.csproj.GenerateResource.cache
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\obj\Debug\Ejercicio32.csproj.CoreCompileInputs.cache
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\obj\Debug\Ejercicio32.exe
+E:\Dropbox\Clases\Montecastelo\DAM\2º DAM\DESARROLLO DE INTERFACES\Temario\Tema05 - Lenguaje c#\Ejercicios\Tema5\Ejercicio32\obj\Debug\Ejercicio32.pdb
