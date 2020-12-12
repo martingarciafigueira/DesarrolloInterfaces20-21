@@ -1,0 +1,11 @@
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\bin\Debug\DI_Tarea_5_NicolasEstevezPazos.exe.config
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\bin\Debug\DI_Tarea_5_NicolasEstevezPazos.exe
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\bin\Debug\DI_Tarea_5_NicolasEstevezPazos.pdb
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\obj\Debug\Tarea5.csprojAssemblyReference.cache
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\obj\Debug\DI_Tarea_5_NicolasEstevezPazos.Form1.resources
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\obj\Debug\DI_Tarea_5_NicolasEstevezPazos.EditarPelicula.resources
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\obj\Debug\DI_Tarea_5_NicolasEstevezPazos.Properties.Resources.resources
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.GenerateResource.cache
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\obj\Debug\Tarea5.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\obj\Debug\DI_Tarea_5_NicolasEstevezPazos.exe
+C:\Users\MESACOCINA\Desktop\EstevezPazosNicolasTarea5\Tarea5\Tarea5\obj\Debug\DI_Tarea_5_NicolasEstevezPazos.pdb
